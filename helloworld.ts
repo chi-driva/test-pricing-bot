@@ -1,1 +1,1 @@
-Y29uc29sZS5sb2coIkhlbGxvLCBXb3JsZCEiKTs
+console.log("Hello, World!");
